@@ -1,4 +1,4 @@
-# QGIS Applications in Remote Sensing
+# QGIS Applications in Satellite Remote Sensing
 
 This repository provides all the data required for ***QGIS tutorials*** (in HydroModelingHub, https://www.youtube.com/channel/UCHEK2VhJapgidaIds_O83Bg?view_as=subscriber) by Dr. Younghyun Cho.
 
